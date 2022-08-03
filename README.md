@@ -8,10 +8,9 @@ Single Cell Splicing Analysis of Pancreatic Neuroendocrine Cancer
     - [Data](#data)
     - [Usage](#usage)
         - [Installation](#installation)
-        - [Requirements](#requirements) _Can be named Dependencies as well_
-        - [Activate conda environment](#activate-conda-environment) _Optional_
- 
-    - [Results](#results) _Optional depending on project_
+        - [Requirements](#requirements) 
+        - [Activate conda environment]
+    - [Results](#results) _depending on project_
     - [Team Members](#team-members)
 
 ## Background
