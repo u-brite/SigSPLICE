@@ -1,5 +1,5 @@
 # sigSPLICE
-Single cell splicing analysis of Pancreatic Neuroendocrine Cancer
+Single Cell Splicing Analysis of Pancreatic Neuroendocrine Cancer
 
 ## Table of Contents
 
@@ -30,7 +30,6 @@ git clone -b main \
 ```
 
 ### Requirements
-:exclamation: _Note any software used (including Python or R packages), operating system requirements, etc. and its version so that your project is reproducible. It does not have to be in the below format_ :exclamation:
 
 *Tools:*
 -Python, R program
