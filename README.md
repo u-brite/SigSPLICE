@@ -18,8 +18,7 @@ Single Cell Splicing Analysis of Pancreatic Neuroendocrine Cancer
 Alternative splicing causes generation of distinct mRNA from the single gene resulting in structural or functional protein isoforms. Splicing is conducted by splicesome comprised of a complex molecular machinery in the eukaryotic cells. Cancer cells exhibits cell type specific alterations in the splicing process that invokes a prognostic/therapeutic value and can also serve as biomarkers for cancer diagnosis. The transcriptomic landscape of the cancer cells engender vulnerability to inhibition of splicing, thus can be targeted therapeutically. sigSPLICE will delineate unique splicing signatures in Pancreatic Neuroendocrine Cancer that will unravel novel biomarkers for cancer detection and targets for pharmacological intervention. 
 
 ## Data
-
-:exclamation: _Discuss the data you used and how it can be accessed._ :exclamation:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8495381/pdf/ijbsv17p3760.pdf 
 
 ## Usage
 
