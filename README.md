@@ -1,4 +1,4 @@
-# team-repo-template
+# sigSPLICE
 Single cell splicing analysis of Pancreatic Neuroendocrine Cancer
 
 ## Table of Contents
@@ -15,7 +15,7 @@ Single cell splicing analysis of Pancreatic Neuroendocrine Cancer
     - [Team Members](#team-members)
 
 ## Background
-Alternative splicing causes generation of distinct mRNA and structural or functional protein isoforms from the single gene. Splicing is conducted by splicesome that is comprised of a complex molecular machinery in the eukaryotic cells. Cancer cells may have cell type specific alterations in the splicing process that can have a prognostic value and can also serve as biomarkers for cancer diagnosis. The transcriptomic landscape of the cancer cells engender vulnerability to inhibition of splicing, thereby providing a therapeutic value. sigSPLICE will delineate unique splicing signatures in Pancreatic Neuroendocrine Cancer that may serve as biomarkers for cancer detection and or targets for therapeutic intervention. 
+Alternative splicing causes generation of distinct mRNA from the single gene resulting in structural or functional protein isoforms. Splicing is conducted by splicesome comprised of a complex molecular machinery in the eukaryotic cells. Cancer cells exhibits cell type specific alterations in the splicing process that invokes a prognostic/therapeutic value and can also serve as biomarkers for cancer diagnosis. The transcriptomic landscape of the cancer cells engender vulnerability to inhibition of splicing, thus can be targeted therapeutically. sigSPLICE will delineate unique splicing signatures in Pancreatic Neuroendocrine Cancer that will unravel novel biomarkers for cancer detection and targets for pharmacological intervention. 
 
 ## Data
 
@@ -23,30 +23,14 @@ Alternative splicing causes generation of distinct mRNA and structural or functi
 
 ## Usage
 
-:exclamation: _How will someone not involved in your project be able to run the code or use it._ :exclamation:
-
 ### Installation
 
-:exclamation: _If installation is required, please mention how to do so here._ :exclamation:
-
-Installation simply requires fetching the source code. Following are required:
-
-- Git
-
-To fetch source code, change in to directory of your choice and run:
-
-```sh
 git clone -b main \
     git@github.com:u-brite/team-repo-template.git
 ```
 
 ### Requirements
 :exclamation: _Note any software used (including Python or R packages), operating system requirements, etc. and its version so that your project is reproducible. It does not have to be in the below format_ :exclamation:
-
-*OS:*
-
-Currently works only in Linux OS. Docker versions may need to be explored later to make it useable in Mac (and
-potentially Windows).
 
 *Tools:*
 
@@ -72,17 +56,6 @@ conda activate testing
 ### Steps to run
 :exclamation: _Optional: Depends on project._ :exclamation:
 
-#### Step 1
-
-```sh
-python src/data_prep.py -i path/to/file.tsv -O path/to/output_directory
-```
-
-#### Step 2
-
-```sh
-python src/model.py -i path/to/parsed_file.tsv -O path/to/output_directory
-```
 
 Output from this step includes -
 
@@ -102,5 +75,5 @@ output_directory/
 
 ## Team Members
 
-Tarun Mamidi | tmamidi@uab.edu | Team Leader  
+Priyanka Gupta | pgupta@uabmc.edu | Team Leader  
 Shaurita Hutchins | shutchins@uab.edu | Co-leader
