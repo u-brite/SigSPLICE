@@ -1,7 +1,5 @@
 # team-repo-template
-:exclamation: _This top heading should be the name of your project i.e. BiocSwirl or SNVariome. Anything between 2 exclamation marks is intended to be deleted. Any content that isn't a heading or an optional heading can be deleted as well. The structure of this readme is open to any creative changes, but the main components of Background/Data/Usage/Team Members should remain. You're free to add images and get creative about how you want your readme to look._ :exclamation:
-
-:exclamation: _The `configs` and `notebooks` directories are also optional. We recommend taking a look at [cookiecutter for datascience](https://github.com/drivendata/cookiecutter-data-science) or [cookiecutter for computational biology](https://github.com/drivendata/cookiecutter-data-science) to get ideas on structuring your projects. Also, use a `.gitignore` that fits the main programming language of your project._ :exclamation:
+Single cell splicing analysis of Pancreatic Neuroendocrine Cancer
 
 ## Table of Contents
 
@@ -12,15 +10,12 @@
         - [Installation](#installation)
         - [Requirements](#requirements) _Can be named Dependencies as well_
         - [Activate conda environment](#activate-conda-environment) _Optional_
-        - [Steps to run ](#steps-to-run) _Optional depending on project_
-            - [Step-1](#step-1)
-            - [Step-2](#step-2)
+ 
     - [Results](#results) _Optional depending on project_
     - [Team Members](#team-members)
 
 ## Background
-
-:exclamation: _Include background on the project, project description, and significance. This will be converted to your team's abstract by the end of the hackathon. This should be updated by Monday, August 1st to include feedback given._ :exclamation:
+Alternative splicing causes generation of distinct mRNA and structural or functional protein isoforms from the single gene. Splicing is conducted by splicesome that is comprised of a complex molecular machinery in the eukaryotic cells. Cancer cells may have cell type specific alterations in the splicing process that can have a prognostic value and can also serve as biomarkers for cancer diagnosis. The transcriptomic landscape of the cancer cells engender vulnerability to inhibition of splicing, thereby providing a therapeutic value. sigSPLICE will delineate unique splicing signatures in Pancreatic Neuroendocrine Cancer that may serve as biomarkers for cancer detection and or targets for therapeutic intervention. 
 
 ## Data
 
