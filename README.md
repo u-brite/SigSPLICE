@@ -33,42 +33,14 @@ git clone -b main \
 :exclamation: _Note any software used (including Python or R packages), operating system requirements, etc. and its version so that your project is reproducible. It does not have to be in the below format_ :exclamation:
 
 *Tools:*
-
+-Python, R program
 - Anaconda3
     - Tested with version: 2020.02
 
 ### Activate conda environment
-:exclamation: _Optional: Depends on project._ :exclamation:
 
-Change in to root directory and run the commands below:
-
-```sh
-# create conda environment. Needed only the first time.
-conda env create --file configs/environment.yaml
-
-# if you need to update existing environment
-conda env update --file configs/environment.yaml
-
-# activate conda environment
-conda activate testing
-```
-
-### Steps to run
-:exclamation: _Optional: Depends on project._ :exclamation:
-
-
-Output from this step includes -
-
-```directory
-output_directory/
-├── parsed_file.tsv               <--- used for model
-├── plot.pdf- Plot to visualize data
-└── columns.csv - columns before and after filtering step
-
-```
 
 **Note**: The is an example note with a [link](https://github.com/u-brite/team-repo-template).
-
 
 ## Results
 :exclamation: _If your project yielded or intends to yield some novel analysis, please include them in your readme. It can be named something other than results as well._ :exclamation:
@@ -76,4 +48,9 @@ output_directory/
 ## Team Members
 
 Priyanka Gupta | pgupta@uabmc.edu | Team Leader  
-Shaurita Hutchins | shutchins@uab.edu | Co-leader
+Libo Sun |  | Team member
+Mehadi Hasan |  | Team member
+Mostafa Mohamed |  | Team member
+George Odette   |  | Team member
+Amr Elkholy     |  | Team member
+Abdiaziz Ali Gosar |  | Team member
