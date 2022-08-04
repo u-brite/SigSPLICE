@@ -48,6 +48,5 @@ Priyanka Gupta | pgupta@uabmc.edu | Team Leader
 Libo Sun |  | Team member
 Mehadi Hasan |  | Team member
 Mostafa Mohamed |  | Team member
-George Odette   |  | Team member
 Amr Elkholy     |  | Team member
 Abdiaziz Ali Gosar |  | Team member
